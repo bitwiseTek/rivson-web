@@ -1,0 +1,30 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	  <modelVersion>4.0.0</modelVersion>
+	  
+	  <groupId>com.bitwise.manageme.rssson</groupId>
+	  <artifactId>rssson-master</artifactId>
+	  <version>0.0.1-SNAPSHOT</version>
+	  <packaging>pom</packaging>
+	  
+	  <name>rssson-master</name>
+	  <description>Master Project for RSSSON</description>
+	  <url>http://maven.apache.org</url>
+	  
+	  <organization>
+	    <name>BitwiseTech / Rivers State School of Nursing</name>
+	    <url>http://www.bitwisetechltd.com</url>
+	  </organization>
+	
+	  <properties>
+	  	<!-- Generics -->
+	    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+      </properties>
+      
+	  <modules>
+	  	<module>persistence</module>
+	  	<module>resources</module>
+	  	<module>rsson</module>
+	  </modules>
+</project>
