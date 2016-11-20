@@ -1,12 +1,55 @@
 @CHARSET "UTF-8";
 
-.index_row {
-  float:left;
-  clear:both;
-  width:800px;
-  max-width:40%;
-  margin-left:auto;
-  margin-right:auto;
+@media screen and (min-width: 1200px) {
+  .container {
+    max-width: 1170px;
+  }
+  .index_row {
+    float:left;
+    clear:both;
+    width:120%;
+    margin-left:auto;
+    margin-right:auto;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .container {
+    max-width: 767px;
+  }
+  .index_row {
+    float:left;
+    clear:both;
+    width:120%;
+    margin-left:auto;
+    margin-right:auto;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    max-width: 599px;
+  }
+  .index_row {
+    float:left;
+    clear:both;
+    width:120%;
+    margin-left:auto;
+    margin-right:auto;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .container {
+    max-width: 479px;
+  }
+  .index_row {
+    float:left;
+    clear:both;
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+  }
 }
 
 .index_cell {
