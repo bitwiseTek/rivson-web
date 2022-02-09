@@ -898,7 +898,7 @@
 	    <dependency>
 	    	<groupId>org.infinispan</groupId>
 	      	<artifactId>infinispan-core</artifactId>
-	      	<version>6.0.2.Final</version>
+	      	<version>11.0.6.Final</version>
 	      	<exclusions>
 		    	<exclusion>
                 	<groupId>org.infinispan</groupId>
