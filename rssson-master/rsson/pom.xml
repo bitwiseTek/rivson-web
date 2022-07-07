@@ -21,7 +21,7 @@
 	    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	    <javaVersion>1.8</javaVersion>
-	    <springVersion>4.2.0.RELEASE</springVersion>
+	    <springVersion>5.2.21.RELEASE</springVersion>
 	    <springSecurityVersion>4.0.3.RELEASE</springSecurityVersion>
 	    <tilesVersion>3.0.5</tilesVersion>
 	    <tomcatVersion>8.0.24</tomcatVersion>
