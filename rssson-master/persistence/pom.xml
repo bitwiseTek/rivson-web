@@ -23,7 +23,7 @@
     <javaVersion>1.8</javaVersion>
     <springVersion>4.2.0.RELEASE</springVersion>
     <springSecurityVersion>4.0.3.RELEASE</springSecurityVersion>
-    <hibernateVersion>4.3.11.Final</hibernateVersion>
+    <hibernateVersion>5.3.20.Final</hibernateVersion>
     
     <!-- Others -->
     <mysqlDriverVersion>5.1.18</mysqlDriverVersion>
